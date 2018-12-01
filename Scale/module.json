@@ -1,0 +1,14 @@
+{
+    "id": "{B0F905F3-6C72-4963-94D3-98B11F61AFA2}",
+    "name": "Scale",
+    "type": 3,
+    "vendor": "",
+    "aliases":
+    [
+        "Scaling"
+    ],  
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "SCL"
+}
