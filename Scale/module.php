@@ -19,9 +19,8 @@
         * ABC_MeineErsteEigeneFunktion($id);
         *
         */
-        public function MeineErsteEigeneFunktion() {
-            echo $this->InstanceID;
-			echo "Hallo Martin";
+        public function MeineErsteEigeneFunktion(float $InValue, float $InLL, float $InUL, float $OutLL, float $OutUL) {
+            echo $InValue;
         }
     }
 ?>
